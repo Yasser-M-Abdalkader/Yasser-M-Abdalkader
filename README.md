@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yasser M. Abdalkader</h1>
-<h2 align="center">an Embedded Systems intern at Information Technology Institute (ITI)</h2>
+<h1 align="center">Hi 👋, I'm Yasser Mustafa Abdalkader</h1>
+<h2 align="center">Embedded Systems intern at Information Technology Institute (ITI)</h2>
 
 - 🌱 I’m currently learning **Embedded Systems, Interfacing with Atmega32 and STM32**
 
